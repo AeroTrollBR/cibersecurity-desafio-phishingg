@@ -18,5 +18,3 @@
 
 ### Resutados
 
-
-Resutados
