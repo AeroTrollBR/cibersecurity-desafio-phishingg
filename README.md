@@ -18,5 +18,4 @@
 
 ### Resutados
 
-
-Resutados
+![Alt text](./Curso DIO.png "Optional title")
