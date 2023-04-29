@@ -1,11 +1,11 @@
-Phishing para captura de senhas da Netflix
+# Phishing para captura de senhas da Netflix
 
-Ferramentas
+### Ferramentas
 
 - Kali Linux
 - setoolkit
 
-Configurando o Phishing no Kali Linux
+### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -15,5 +15,8 @@ Configurando o Phishing no Kali Linux
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: https://www.netflix.com/br/login
+
+### Resutados
+
 
 Resutados
