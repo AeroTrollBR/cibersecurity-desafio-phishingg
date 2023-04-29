@@ -18,4 +18,4 @@
 
 ### Resutados
 
-./Curso DIO.png
+./DIO.png
